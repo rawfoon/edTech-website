@@ -1,0 +1,16 @@
+@media screen and (max-width:768px) {
+    .r-tech-carousel-info {
+        max-width: 400px;
+        margin: auto;
+        top: 25% !important;
+    }
+    .r-tech-carousel-info h1 {
+        font-size: 1.2rem;
+    }
+    .r-tech-carousel-info p {
+        font-size: 0.7rem;
+    }
+    .r-tech-carousel-info button {
+        font-size: 0.7rem;
+    }
+}
